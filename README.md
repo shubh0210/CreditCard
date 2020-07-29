@@ -1,1 +1,1 @@
-# CreditCard
+# CreditCard Eligibility check application
